@@ -1,4 +1,4 @@
-This Node.js project is designed to retrieve CSV data from a specific website, process it through a data pipeline and parser, and display the parsed data sequentially. The project handles the entire flow, from fetching the CSV data to parsing and displaying it in a user-friendly format.
+This Node.js project is designed to retrieve CSV data from NASA's website, process it through a data pipeline and parser, and display the parsed data sequentially. The project handles the entire flow, from fetching the CSV data to parsing and displaying it in a user-friendly format.
 
 **Features**
 1.Fetch CSV data from a specified source (website).
